@@ -1,0 +1,5 @@
+# No external dependencies required for the core dumper.
+# Built-in: ctypes, struct, json, os, sys, time, threading, math
+# Optional (for future GUI expansion):
+# customtkinter
+# pillow
