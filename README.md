@@ -21,7 +21,7 @@ A high-performance, professional-grade memory dumper for Counter-Strike 1.6 (Gol
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ECLIPSE-CS16-Dumper.git
+   git clone https://github.com/ozerbaba1/ECLIPSE-CS16-Dumper.git
    cd ECLIPSE-CS16-Dumper
    ```
 2. Install dependencies:
